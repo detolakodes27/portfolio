@@ -127,9 +127,9 @@
 		animation-name: slideInLeft;
 		animation-duration:.5s;
 	}
-	.nav_right{
+/* 	.nav_right{
 		display: none;
-	}
+	} */
 	.mobile_menu{
 		display: block;
 	}
