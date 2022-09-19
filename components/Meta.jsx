@@ -22,7 +22,7 @@ const Meta = ({title, keywords, description}) => {
 Meta.defaultProps = {
 	title: 'Detola-portfolio',
 	keywords: 'portfolio, profile, web developer',
-	description: 'profile an expert in the field of web development and brand building'
+	description: 'profile of an expert in the field of web development and brand building'
 
 }
 
