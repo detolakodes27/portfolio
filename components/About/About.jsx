@@ -19,7 +19,7 @@ const About = () =>{
 							handle, your next project
 						</h3>
 						<p className='mt-30'>
-							Inept understanding of my work means i get to deliver faster and more accurately. Get top-notch, modern digital contents made with the latest available technologies.
+							Adept understanding of my work means i get to deliver faster and more accurately. Get top-notch, modern digital contents made with the latest available technologies.
 						</p>
 
 						<div className='d-flex align-items-center flex-wrap justify-content-start fw-normal'>
