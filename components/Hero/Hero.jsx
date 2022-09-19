@@ -29,7 +29,7 @@ const Hero = () =>{
 									{/*<a href='HOW TO RAISE MONEY EASILY.pdf' download>
 										Download CV
 									</a>*/}
-									<a href=''>
+									<a href='#contact'>
 										Hire me
 									</a>
 								</button>
