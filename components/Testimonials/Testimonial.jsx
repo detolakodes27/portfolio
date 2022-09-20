@@ -58,16 +58,15 @@ const Testimonial = () =>{
 					            	<img alt='client image' src='/images/lady-img.jpg' />
 					            	<div>
 					            		<h6 className='mt-3'>
-					            			Benjamin Ajayi
+					            			Damola
 					            		</h6>
 					            		<h6 className='mt-3'>
-					            			Sports enthusiast/journalist
+					            			Sports enthusiast/journalist and Writer
 					            		</h6>
 					            	</div>
 					            </div>
 				            	<p className='mt-3'>
-				            		Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-									tempor incididunt ut labore et dolore magna aliqua.
+				            		A nice guy who is always ready and eager to learn and is one of the best web developers i have worked with.
 				            	</p>
 					          </div>
 
@@ -76,36 +75,19 @@ const Testimonial = () =>{
 					            	<img alt='client image' src='/images/man-img1.jpg' width='200px' height='200px' />
 					            	<div>
 					            		<h6 className='mt-3'>
-					            			Chuks Donchester
+					            			Eniola
 					            		</h6>
 					            		<h6 className='mt-3'>
-					            			Digital marketer and web designer
+					            			UI/UX designer and web designer
 					            		</h6>
 					            	</div>
 					            </div>
 				            	<p className='mt-3'>
-				            		Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-									tempor incididunt ut labore et dolore magna aliqua.
+				            		Detola is a passion driven individual who enjoys building creative websites that are comaptible for all browser types. He is also a great team member
 				            	</p>
 					          </div>
 
-					          <div className={styles.testimonial_item}>
-					            <div className={styles.testimonial_client}>
-					            	<img alt='client image' src='/images/man-img2.jpg' width='200px' height='200px' />
-					            	<div>
-					            		<h6 className='mt-3'>
-					            			Sanni Ridwan
-					            		</h6>
-					            		<h6 className='mt-3'>
-					            			Accountant and Graphic designer
-					            		</h6>
-					            	</div>
-					            </div>
-				            	<p className='mt-3'>
-				            		Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-									tempor incididunt ut labore et dolore magna aliqua.
-				            	</p>
-					          </div>
+					         
 				        </Slider>
 					</div>
 				</div>
