@@ -56,6 +56,11 @@ const Testimonial = () =>{
 					          <div className={styles.testimonial_item}>
 					            <div className={styles.testimonial_client}>
 					            	<img alt='client image' src='/images/dammy.jpg' />
+							<style jsx>{`
+					                    .dammy{
+					                        object-fit:cover;
+					                    }
+					                `}</style>
 					            	<div>
 					            		<h6 className='mt-3'>
 					            			Damola
@@ -73,6 +78,11 @@ const Testimonial = () =>{
 					          <div className={styles.testimonial_item}>
 					            <div className={styles.testimonial_client}>
 					            	<img alt='client image' src='/images/enny.jpg' width='200px' height='200px' />
+							<style jsx>{`
+					                    .enny{
+					                        object-fit:cover;
+					                    }
+					                `}</style>
 					            	<div>
 					            		<h6 className='mt-3'>
 					            			Eniola
