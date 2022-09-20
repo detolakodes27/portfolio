@@ -122,7 +122,7 @@
 		padding:30% 0;
 		height:100vh;
 		flex-direction: column;
-		justify-content: space-around;
+		justify-content: space-between;
 		column-gap:1rem;
 		animation-name: slideInLeft;
 		animation-duration:.5s;
