@@ -55,7 +55,7 @@ const Testimonial = () =>{
 						<Slider {...settings}>
 					          <div className={styles.testimonial_item}>
 					            <div className={styles.testimonial_client}>
-					            	<img alt='client image' src='/images/lady-img.jpg' />
+					            	<img alt='client image' src='/images/dammy.jpg' />
 					            	<div>
 					            		<h6 className='mt-3'>
 					            			Damola
@@ -72,7 +72,7 @@ const Testimonial = () =>{
 
 					          <div className={styles.testimonial_item}>
 					            <div className={styles.testimonial_client}>
-					            	<img alt='client image' src='/images/man-img1.jpg' width='200px' height='200px' />
+					            	<img alt='client image' src='/images/enny.jpg' width='200px' height='200px' />
 					            	<div>
 					            		<h6 className='mt-3'>
 					            			Eniola
