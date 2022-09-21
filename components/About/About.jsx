@@ -75,24 +75,54 @@ const About = () =>{
 
 					<div className='col-lg-6 col-md-12 md-mt'>
 						<div className={styles.about2}>
-							<div className='flex-h-new3 gap-3'>
-								<div className='d-flex flex-column mb-3'>
-									<div className={`${styles.aboutimg} ${styles.aboutimg_box}`}>
-										<img src='/images/profilepic4.jpg' width='150px' alt='About image' className='m-2 rounded-xlg' />
+							<div className=''>
+								<div>
+									<SectionSubtitle subtitle='Tools I use' />
+								</div>
+
+								<div className={styles.about_tools}>
+									<div className='mx-3 mt-3'>
+										<div><img src='/images/HTML.png'  /></div>
+										<div className='text-center mt-2'>
+											<h5>HTML</h5>
+										</div>
 									</div>
 
-									<div className={`${styles.aboutimg} ${styles.aboutimg_box}`}>
-										<img src='/images/profilepic3.jpg' width='100px' alt='About image' className='m-2 rounded-xlg' />
+									<div className='mx-3'>
+										<div><img src='/images/CSS.png'  /></div>
+										<div className='text-center mt-2'>
+											<h5>CSS</h5>
+										</div>
+									</div>
+
+									<div className='mx-3'>
+										<div><img src='/images/JS.png'  /></div>
+										<div className='text-center mt-2'>
+											<h5>JS</h5>
+										</div>
 									</div>
 								</div>
 
-								<div className='d-flex flex-column mb-3'>
-									<div className={`${styles.aboutimg} ${styles.aboutimg_box}`}>
-										<img src='/images/profilepic1.jpg' width='100px' alt='About image' className='m-2 rounded-xlg' />
+								<div className={styles.about_tools}>
+									<div className='mx-3'>
+										<div><img src='/images/react.png'  /></div>
+										<div className='text-center mt-2'>
+											<h5>REACT</h5>
+										</div>
 									</div>
 
-									<div className={`${styles.aboutimg} ${styles.aboutimg_box}`}>
-										<img src='/images/profilepic2.jpg' width='150px' alt='About image' className='m-2 rounded-xlg' />
+									<div className='mx-3'>
+										<div><img src='/images/NEXT.png'  /></div>
+										<div className='text-center mt-2'>
+											<h5>NEXT</h5>
+										</div>
+									</div>
+
+									<div className='mx-3'>
+										<div><img src='/images/PHP.png'  /></div>
+										<div className='text-center mt-2'>
+											<h5>PHP</h5>
+										</div>
 									</div>
 								</div>
 							</div>
