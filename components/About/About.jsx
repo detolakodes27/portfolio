@@ -63,11 +63,8 @@ const About = () =>{
 							</button>
 
 							<button className='secondarybtn ml-4 rounded'>
-								{/*<a href='HOW TO RAISE MONEY EASILY.pdf' download>
+								<a href='Resume.pdf' download>
 									Download CV
-								</a>*/}
-								<a href=''>
-									Hire me
 								</a>
 							</button>
 						</div>
