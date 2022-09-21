@@ -8,7 +8,7 @@ const NAV_LINK = [
 	{
 
 		path:'/',
-		display:<a href='https://wa.me/+2349153396054' target='blank'><i className='bi-whatsapp text-default'></i></a>
+		display:<a href='https://wa.me/+2349160869817' target='blank'><i className='bi-whatsapp text-default'></i></a>
 	},
 	{
 
