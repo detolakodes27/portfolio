@@ -26,11 +26,8 @@ const Hero = () =>{
 							</p>
 							<div className='mt-5'>
 								<button className='primarybtn rounded'>
-									{/*<a href='HOW TO RAISE MONEY EASILY.pdf' download>
+									<a href='Resume.pdf' download>
 										Download CV
-									</a>*/}
-									<a href='#contact'>
-										Hire me
 									</a>
 								</button>
 								<button className='secondarybtn ml-4 rounded'>
