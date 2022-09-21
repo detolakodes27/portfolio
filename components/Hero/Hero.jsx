@@ -43,7 +43,7 @@ const Hero = () =>{
 					</div>
 					<div className='col-lg-6 col-md-6'>
 						<div className={`${styles.heroimg_container} text-r mb-5`}>
-							<img alt='Profile picture' src='/images/profilepic.jpg' className={`${styles.heroimg}`} />
+							<img alt='Profile picture' src='/images/pic1.jpg' className={`${styles.heroimg}`} />
 						</div>
 						<div className={styles.heroskills}>
 							<h6>Skills</h6>
