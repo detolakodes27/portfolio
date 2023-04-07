@@ -9,7 +9,7 @@ import PortfolioData from './PortfolioData'
 const Portfolioitem = (props) => {
 
 
-	const {title, img, liveUrl, keyword, type} = props.item;
+	const {title, img, liveUrl, keyword, type, name} = props.item;
 
 
 	return(
@@ -18,6 +18,7 @@ const Portfolioitem = (props) => {
 
 			<div className={`${styles.portfolio_item}`}>
 				<div className='bg-transparent mb-3'>
+					{/*<h4>{name}</h4>*/}
 					<h6 className='mb-3'>
 						{title}
 					</h6>

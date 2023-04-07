@@ -1,8 +1,37 @@
 const PortfolioData = [
+	
+	
 
 	{
 
-		id:'01',
+		id:'18',
+		name: 'Cryptobuddy',
+		title: 'Hackathon, Web App, Coinbase hackathon presentation',
+		img: '/images/PF54.png',
+		category: 'Web development',
+		keyword: ['This project was a team effort and the final result was achieved not only by me, but with the help of my 3 other team members'],
+		liveUrl: 'https://cryptobuddy-2023.vercel.app/home',
+		type: 'website',
+	},
+
+
+	{
+
+		id:'17',
+		name: 'project future nigeria',
+		title: 'Charity, Volunteer, 2023 Elections',
+		img: '/images/PF43.png',
+		category: 'Web development',
+		keyword: ['Charity ', 'NGOs ', 'Capmaign '],
+		liveUrl: 'https://projectfuturenigeria.de',
+		type: 'website',
+	},
+
+
+	{
+
+		id:'02',
+		name: 'Synum',
 		title: 'Food, Resturant, Take-out',
 		img: '/images/PF1.png',
 		category: 'Web development',
@@ -13,7 +42,21 @@ const PortfolioData = [
 
 	{
 
-		id:'02',
+		id:'16',
+		name: 'Skilldeck',
+		title: 'Co-working-space, Events, Work-from-home',
+		img: '/images/PF40.png',
+		category: 'Web development',
+		keyword: ['Blog ', 'Gossips ', 'Trends '],
+		liveUrl: 'https://detola.000webhostapp.com',
+		type: 'website',
+	},
+	
+
+	{
+
+		id:'01',
+		name: 'PetLove',
 		title: 'Pets, Animals, Zoo',
 		img: '/images/PF19.png',
 		category: 'Web development',
@@ -26,6 +69,7 @@ const PortfolioData = [
 	{
 
 		id:'03',
+		name: 'Tindog',
 		title: 'Dogs, Pets, Animals',
 		img: '/images/PF12.png',
 		category: 'Web development',
@@ -34,27 +78,7 @@ const PortfolioData = [
 		type: 'website',
 	},
 
-	{
 
-		id:'16',
-		title: 'Co-working-space, Events, Work-from-home',
-		img: '/images/PF40.png',
-		category: 'Web development',
-		keyword: ['Blog ', 'Gossips ', 'Trends '],
-		liveUrl: 'https://detola.000webhostapp.com',
-		type: 'website',
-	},
-	
-	{
-
-		id:'17',
-		title: 'Charity, Volunteer, 2023 Elections',
-		img: '/images/PF43.png',
-		category: 'Web development',
-		keyword: ['Charity ', 'NGOs ', 'Capmaign '],
-		liveUrl: 'https://projectfuturenigeria.de',
-		type: 'website',
-	},
 
 	{
 
