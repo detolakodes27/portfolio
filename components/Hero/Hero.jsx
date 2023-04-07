@@ -19,7 +19,7 @@ const Hero = () =>{
 								I'm Detola Ogungbe
 							</h2>
 							<h5 className='mb-3'>
-								Full stack web developer & Graphic designer
+								Front end web developer & Graphic designer
 							</h5>
 							<p className=''>
 								Creator of mind-blowing digital contents that improves brands and drive sales regardless of the industry or sector in question
@@ -40,7 +40,7 @@ const Hero = () =>{
 					</div>
 					<div className='col-lg-6 col-md-6'>
 						<div className={`${styles.heroimg_container} text-r mb-5`}>
-							<img alt='Profile picture' src='/images/pic1.jpg' className={`${styles.heroimg}`} />
+							<img alt='Profile picture' src='/images/pp1.jpg' className={`${styles.heroimg}`} />
 						</div>
 						<div className={styles.heroskills}>
 							<h6>Skills</h6>
