@@ -116,9 +116,9 @@ const About = () =>{
 									</div>
 
 									<div className='mx-3'>
-										<div><img src='/images/PHP.png'  /></div>
+										<div><img src='/images/wp-logo.png'  /></div>
 										<div className='text-center mt-2'>
-											<h5>PHP</h5>
+											<h5>WORDPRESS</h5>
 										</div>
 									</div>
 								</div>
