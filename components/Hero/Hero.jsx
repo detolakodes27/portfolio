@@ -26,8 +26,8 @@ const Hero = () =>{
 							</p>
 							<div className='mt-5'>
 								<button className='primarybtn rounded'>
-									<a href='Resume.pdf' download>
-										Download CV
+									<a href='tel://+2349153396054'>
+										Hire me
 									</a>
 								</button>
 								<button className='secondarybtn ml-4 rounded'>
