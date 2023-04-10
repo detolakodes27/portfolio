@@ -4,6 +4,18 @@ const PortfolioData = [
 
 	{
 
+		id:'19',
+		name: 'Apokton',
+		title: 'Recruitments, Volunteers, Resumes',
+		img: '/images/PF55.png',
+		category: 'Web development',
+		keyword: ['Jobseekers ' , 'Internships ' , 'Employers'],
+		liveUrl: 'https://apokton23.vercel.app/',
+		type: 'website',
+	},
+
+	{
+
 		id:'18',
 		name: 'Cryptobuddy',
 		title: 'Hackathon, Web App, Coinbase hackathon presentation',
@@ -28,17 +40,17 @@ const PortfolioData = [
 	},
 
 
-	{
+// 	{
 
-		id:'02',
-		name: 'Synum',
-		title: 'Food, Resturant, Take-out',
-		img: '/images/PF1.png',
-		category: 'Web development',
-		keyword: ['Mobile ', 'Food-order ', 'Resturant '],
-		liveUrl: 'https://synum.000webhostapp.com/index.php',
-		type: 'website',
-	},
+// 		id:'02',
+// 		name: 'Synum',
+// 		title: 'Food, Resturant, Take-out',
+// 		img: '/images/PF1.png',
+// 		category: 'Web development',
+// 		keyword: ['Mobile ', 'Food-order ', 'Resturant '],
+// 		liveUrl: 'https://synum.000webhostapp.com/index.php',
+// 		type: 'website',
+// 	},
 
 	{
 
